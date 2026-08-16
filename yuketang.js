@@ -5,6 +5,8 @@
 // @description  针对雨课堂视频进行自动播放，配置AI自动答题
 // @author       风之子
 // @license      GPL3
+// @updateURL    https://raw.githubusercontent.com/xinyangcui/yuketang-jiaoben/main/yuketang.js
+// @downloadURL  https://raw.githubusercontent.com/xinyangcui/yuketang-jiaoben/main/yuketang.js
 // @match        *://*.yuketang.cn/*
 // @match        *://*.gdufemooc.cn/*
 // @run-at       document-start
